@@ -1,11 +1,8 @@
-<h1 style="display: flex; align-items: center; gap: 10px">Hi there, I'm Bogdan 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
+<h1>Hi there, I'm Bogdan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&color=E43D82&width=435&height=30&lines=Frontend+Developer" alt="Typing SVG" />
 
-
-<h2 style="display: flex; align-items: center; gap: 10px">Stack
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></h1>
+<h2>Stack 💻</h2>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -32,8 +29,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 style="display: flex; align-items: center; gap: 10px">Stats
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></h1>
+<h2>Stats 📊</h2>
 
 [![codewars](https://www.codewars.com/users/ketrololz/badges/small)](https://www.codewars.com/users/ketrololz)
 
