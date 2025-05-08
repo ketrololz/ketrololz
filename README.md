@@ -1,7 +1,7 @@
 <h1 style="display: flex; align-items: center; gap: 10px">Hi there, I'm Bogdan 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&color=E43D82&width=435&height=30&lines=Frontend+Developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&color=E43D82&width=435&height=30&lines=Frontend+Developer" alt="Typing SVG" />
 
 
 <h2 style="display: flex; align-items: center; gap: 10px">Stack
@@ -37,7 +37,7 @@
 
 [![codewars](https://www.codewars.com/users/ketrololz/badges/small)](https://www.codewars.com/users/ketrololz)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ketrololz&title=-Followers,-Stars,-Issues,-Reviews&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ketrololz&title=-Followers,-Stars,-Issues,-Reviews&theme=radical)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketrololz&show_icons=true&theme=radical)
