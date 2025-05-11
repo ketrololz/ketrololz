@@ -35,8 +35,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ketrololz&title=-Followers,-Stars,-Issues,-Reviews&theme=radical)
 
+![GitHub stats](https://github-readme-stats-ketrololzs-projects.vercel.app/api?username=ketrololz&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketrololz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrololz&theme=radical)
+![Top Langs](https://github-readme-stats-ketrololzs-projects.vercel.app/api/top-langs/?username=ketrololz&theme=radical)
 
