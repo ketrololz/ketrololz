@@ -37,5 +37,5 @@
 
 ![GitHub stats](https://github-readme-stats-ketrololzs-projects.vercel.app/api?username=ketrololz&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-ketrololzs-projects.vercel.app/api/top-langs/?username=ketrololz&theme=radical)
+![Top Langs](https://github-readme-stats-ketrololzs-projects.vercel.app/api/top-langs/?username=ketrololz&size_weight=1&count_weight=0&theme=radical)
 
